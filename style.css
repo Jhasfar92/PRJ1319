@@ -1,21 +1,21 @@
 @font-face {
 	font-family: boldFont;
-	src: url("../fonts/ZohoPuviBold.ttf");
+	src: url("/ZohoPuviBold.ttf");
 }
 
 @font-face {
 	font-family: mediumFont;
-	src: url("../fonts/ZohoPuviMedium.ttf");
+	src: url("/ZohoPuviMedium.ttf");
 }
 
 @font-face {
 	font-family: regularFont;
-	src: url("../fonts/ZohoPuviRegular.ttf");
+	src: url("/ZohoPuviRegular.ttf");
 }
 
 @font-face {
 	font-family: semiBoldFont;
-	src: url("../fonts/ZohoPuviSemibold.ttf");
+	src: url("/ZohoPuviSemibold.ttf");
 }
 
 * {
